@@ -1,4 +1,4 @@
-# A checklist for my summer
+# A Checklist For My Summer
 Math Foundation for ML:
   - [ ] Watermelon book 西瓜书
   - [ ] Pumpkin book 南瓜书
