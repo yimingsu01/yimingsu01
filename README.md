@@ -24,4 +24,4 @@ Miscellaneous 未分类:
   - [ ] https://github.com/yimingsu01/mit-deep-learning
   - [ ] https://mofanpy.com/
 
-Written on May 17th 10:33 pm Chicago Time, one of the absolutely worst nights that I've ever had these days. 
+Written on May 17th 10:33 pm Chicago Time. 
