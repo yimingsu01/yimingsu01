@@ -23,5 +23,6 @@ Miscellaneous 未分类:
   - [ ] https://github.com/ujjwalkarn/Machine-Learning-Tutorials
   - [ ] https://github.com/yimingsu01/mit-deep-learning
   - [ ] https://mofanpy.com/
+  - [ ] https://www.kaggle.com/code/yimingsu/show-tell-pytorch/edit
 
 Written on May 17th 10:33 pm Chicago Time. 
