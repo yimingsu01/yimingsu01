@@ -1,5 +1,5 @@
 # A Checklist For My Winter Break :snowflake:
-  - [ ] Learn how to draw :pencil2:
+  - [x] Learn how to draw :pencil2:
   - [ ] Learn toxicity drums :boom:
 
 
