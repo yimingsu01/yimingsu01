@@ -1,5 +1,5 @@
 <p align="center">
-<img width="600" height="200" src="https://github.com/yimingsu01/yimingsu01.github.io/blob/main/hideo_kojima_tired.png" alt=”my banner”>
+<img width="1000" height="600" src="https://github.com/yimingsu01/yimingsu01.github.io/blob/main/media/Cascade3.png" alt=”my banner”>
 </p>
 
 # TODO
